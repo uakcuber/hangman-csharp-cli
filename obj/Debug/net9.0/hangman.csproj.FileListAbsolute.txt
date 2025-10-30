@@ -1,0 +1,14 @@
+/home/uakcuber/codes/csharp/hangman/obj/Debug/net9.0/hangman.GeneratedMSBuildEditorConfig.editorconfig
+/home/uakcuber/codes/csharp/hangman/obj/Debug/net9.0/hangman.AssemblyInfoInputs.cache
+/home/uakcuber/codes/csharp/hangman/obj/Debug/net9.0/hangman.AssemblyInfo.cs
+/home/uakcuber/codes/csharp/hangman/obj/Debug/net9.0/hangman.csproj.CoreCompileInputs.cache
+/home/uakcuber/codes/csharp/hangman/bin/Debug/net9.0/hangman
+/home/uakcuber/codes/csharp/hangman/bin/Debug/net9.0/hangman.deps.json
+/home/uakcuber/codes/csharp/hangman/bin/Debug/net9.0/hangman.runtimeconfig.json
+/home/uakcuber/codes/csharp/hangman/bin/Debug/net9.0/hangman.dll
+/home/uakcuber/codes/csharp/hangman/bin/Debug/net9.0/hangman.pdb
+/home/uakcuber/codes/csharp/hangman/obj/Debug/net9.0/hangman.dll
+/home/uakcuber/codes/csharp/hangman/obj/Debug/net9.0/refint/hangman.dll
+/home/uakcuber/codes/csharp/hangman/obj/Debug/net9.0/hangman.pdb
+/home/uakcuber/codes/csharp/hangman/obj/Debug/net9.0/hangman.genruntimeconfig.cache
+/home/uakcuber/codes/csharp/hangman/obj/Debug/net9.0/ref/hangman.dll
