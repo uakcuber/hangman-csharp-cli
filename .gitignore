@@ -1,0 +1,13 @@
+# Genellikle .NET/C# projelerinde ignore edilmesi gereken klasörler
+
+# Build/Derleme çıktı klasörleri
+[Bb]in/
+[Oo]bj/
+
+# Paket yönetimi dosyaları
+*.nupkg
+*.suo
+*.user
+
+# Visual Studio dosyaları
+.vs/
